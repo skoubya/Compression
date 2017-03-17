@@ -1,2 +1,2 @@
 # Compression
-My attempt at a slow but effective compression algorithm
+My compression program
